@@ -1,6 +1,8 @@
 Serverless Shared Library
 =========================
 
+*IMPORTANT: This project is deprecrated. Please head on over to https://www.npmjs.com/package/serverless-hq for a more inclusive Serverless boilerplate solution.*
+
 We like to structure our Serverless Framework applications as a directory with multiple services, each representing various silos of functionality. To better facilitate our applications, we needed the ability to share functions and methods between all our services.
 
 ## Strategy
